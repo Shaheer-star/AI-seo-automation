@@ -1,0 +1,14 @@
+streamlit==1.45.1
+openai==1.82.0
+langchain==0.1.20
+langchain-groq==0.1.5
+langchain-community==0.0.38
+huggingface_hub==0.33.0
+python-dotenv==1.1.0
+pydantic==2.11.5
+requests==2.32.3
+tqdm==4.67.1
+numpy==1.26.4
+pandas==2.2.3
+Pillow==11.2.1
+yt-dlp

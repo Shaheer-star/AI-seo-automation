@@ -1,0 +1,41 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment & sensitive credentials (DO NOT COMMIT REAL API KEYS)
+.env
+.env.local
+.env.*.local
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit runtime logs & local secrets
+.streamlit/*.log
+.streamlit/secrets.toml
+
+# Generated exports and local output
+*.zip
+*.log
+downloads/
+exports/
+generated/
+outputs/
+
+# IDE & System Files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Agent & Temporary Workspace Files
+.agents/
+github_upload_ready/
