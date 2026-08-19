@@ -25,7 +25,7 @@
 
 ## Overview
 
-**Multi-Model AI Video SEO Optimizer and Thumbnail Studio** is a Final Year Project built for creators, marketers, and students who want to improve the discoverability of online videos. The system accepts a video URL, extracts available metadata, analyzes the content context, and generates SEO-friendly recommendations such as tags, titles, descriptions, timestamps, and thumbnail concepts.
+**Multi-Model AI Video SEO Optimizer and Thumbnail Studio** is a Project built for creators, marketers, and students who want to improve the discoverability of online videos. The system accepts a video URL, extracts available metadata, analyzes the content context, and generates SEO-friendly recommendations such as tags, titles, descriptions, timestamps, and thumbnail concepts.
 
 The project combines a Streamlit user interface with AI-assisted SEO generation, platform metadata extraction, structured output validation, and optional AI image generation for 1280 x 720 thumbnail assets.
 
