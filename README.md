@@ -248,7 +248,7 @@ The app can generate:
 
 ## Academic Relevance
 
-This project demonstrates practical implementation of several Computer Science concepts:
+This project demonstrates practical implementation of severalAI concepts:
 
 - Natural Language Processing
 - Prompt engineering
@@ -262,15 +262,7 @@ This project demonstrates practical implementation of several Computer Science c
 
 ---
 
-## Final Year Project Details
 
-| Field | Detail |
-| --- | --- |
-| Degree | BS Computer Science |
-| Project Type | Final Year Project |
-| Domain | Artificial Intelligence, SEO Automation, Web Development |
-| Application Type | AI-powered Streamlit web app |
-| Main Objective | Automate video SEO recommendations and thumbnail generation |
 
 ---
 
@@ -330,6 +322,6 @@ git push -u origin main
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=120&section=footer&text=AI%20Video%20SEO%20Optimizer&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Animated footer" />
 
-  <strong>Built as a BS Computer Science Final Year Project</strong>
+ 
 
 </div>
