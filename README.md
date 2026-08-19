@@ -5,7 +5,7 @@
   # Multi-Model AI Video SEO Optimizer and Thumbnail Studio
 
   <p>
-    <strong>BS Computer Science Final Year Project</strong><br/>
+    
     An AI-powered Streamlit application for video SEO analysis, metadata optimization, and HD thumbnail generation.
   </p>
 
